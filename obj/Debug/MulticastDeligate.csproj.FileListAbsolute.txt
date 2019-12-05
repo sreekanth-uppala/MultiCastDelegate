@@ -1,0 +1,7 @@
+c:\users\y500\source\Delegates\MulticastDeligate\MulticastDeligate\bin\Debug\MulticastDeligate.exe.config
+c:\users\y500\source\Delegates\MulticastDeligate\MulticastDeligate\bin\Debug\MulticastDeligate.exe
+c:\users\y500\source\Delegates\MulticastDeligate\MulticastDeligate\bin\Debug\MulticastDeligate.pdb
+c:\users\y500\source\Delegates\MulticastDeligate\MulticastDeligate\obj\Debug\MulticastDeligate.csprojAssemblyReference.cache
+c:\users\y500\source\Delegates\MulticastDeligate\MulticastDeligate\obj\Debug\MulticastDeligate.csproj.CoreCompileInputs.cache
+c:\users\y500\source\Delegates\MulticastDeligate\MulticastDeligate\obj\Debug\MulticastDeligate.exe
+c:\users\y500\source\Delegates\MulticastDeligate\MulticastDeligate\obj\Debug\MulticastDeligate.pdb
