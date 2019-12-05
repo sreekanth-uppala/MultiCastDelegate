@@ -1,3 +1,3 @@
 # MultiCastDelegate
 
-Hi this is srikhanth and this is readme file
+Hi this is Ganesh and this is readme file
